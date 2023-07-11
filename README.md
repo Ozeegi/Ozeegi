@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ozeegi
 - 👀 I’m interested in making life easy with technology
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on education and financial problem solving projects
+- 💞️ I’m looking to collaborate on basically life problem solving projects
 - 📫 How to reach me via francisozy@gmail.com
 
 <!---
